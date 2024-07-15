@@ -110,7 +110,7 @@ namespace assignment_3_OOP_C_
                 HourRate=2.5M,
                 CountOfHours=30,
             };
-             ProcessEmployee(partTimeEmployee);
+             ProcessEmployee(partTimeEmployee); 
 
             #endregion
 
